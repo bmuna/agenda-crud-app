@@ -19,14 +19,14 @@ This application demonstrates React, Redux and Material Ui with CRUD operations.
 - store for redux store, respective reducers and actions.
 - components for all the components.
 
-## Installing the application
+# Installing the application
 
 - If node is not installed then Install [node] (https://nodejs.org/en/download/)
 - Run the following command to load all the module dependencies for this app:
 
   ### `npm install` or `yarn install`
 
-## To run the application
+# To run the application
 
 - Run the following command to load all the module dependencies for this app:
 
